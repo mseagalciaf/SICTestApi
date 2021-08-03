@@ -1,2 +1,2 @@
 # INSTALADO
-Correo php artisan migrate --seed
+Correr php artisan migrate --seed
